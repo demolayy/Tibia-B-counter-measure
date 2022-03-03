@@ -13,8 +13,8 @@ def sleep():
 
 
 proxy = {
-    'http': 'http://kalupavi-rotate:j57xm6y2nac0@p.webshare.io:80/',
-    'https': 'http://kalupavi-rotate:j57xm6y2nac0@p.webshare.io:80/',
+    'http': 'xxxxxx',
+    'https': 'xxxxxx',
 }
 
 url = "https://tibia-b.site/entry.php"
